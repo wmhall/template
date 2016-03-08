@@ -1,1 +1,1 @@
-# template
+# template file structure for research projects
